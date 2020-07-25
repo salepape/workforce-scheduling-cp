@@ -1,2 +1,2 @@
-# workforce-scheduling-cp
+# Workforce Scheduling CP
 
